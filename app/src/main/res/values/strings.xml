@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="username">Username</string>
+    <string name="search">Cari Pengguna</string>
+    <string name="logo">Logo Github</string>
+    <string name="img_profile">Image Profile</string>
+    <string name="img_loc">Image Location</string>
+    <string name="name">Name</string>
+    <string name="followers">Followers</string>
+    <string name="total_followers">Total Followers</string>
+    <string name="following">Following</string>
+    <string name="total_following">Total Following</string>
+    <string name="location">Location</string>
+    <string name="bio">Bio</string>
+    <string name="title_user_search">Github User\'s Search</string>
+    <string name="title_user_favorite">Favorite User</string>
+    <string name="title_user_detail">Detail User</string>
+    <string name="fab">Fab Favorite</string>
+    <string name="favorite">Favorite User</string>
+    <string name="dark_mode">"Dark Mode  "</string>
+    <string name="theme_setting">Theme Setting</string>
+</resources>
